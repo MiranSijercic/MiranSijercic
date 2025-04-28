@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Miran Sijercic 👋</h1>
 
-<!--
-**MiranSijercic/MiranSijercic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Building data-driven solutions with Python and machine learning.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I'm a data science and machine learning enthusiast with a strong technical foundation built from my experience as a **DevOps and Application Systems Administrator**. 
+
+In my current role, I deploy code, manage Azure DevOps pipelines and permissions, configure server environments, and support enterprise applications. Just a few of many skills that have sharpened my problem-solving and techincal thinking abilities.
+
+I earned my **B.S. in Computer Science** with an initial focus on software engineering, but towards the end of my studies I discovered a deep passion for using data to drive insights and build predictive models.  
+Today, I'm actively growing my portfolio of ML projects, honing skills in **Python**, **pandas**, **NumPy**, **matplotlib**, **seaborn**, and **scikit-learn**, and continuously expanding into new tools and techniques.
+
+I'm excited to combine my hands-on IT experience with a strong analytical mindset to deliver data-driven solutions in real-world environments.
+
+---
+
+## 🛠️ Core Skills
+- **Programming & Libraries**: Python, pandas, NumPy, matplotlib, seaborn, scikit-learn
+- **Cloud & DevOps**: Microsoft Shop, Azure DevOps, CI/CD Pipelines, Server Environment Configuration
+- **Data Science Interests**: Supervised Learning, Unsupervised Learning, Data Visualization, Model Evaluation
+
+---
+
+## 📚 Current Projects
+- 🚢 **Titanic Classification Project** — Machine learning model predicting survival outcomes (coming soon!)
+- 🤖 **New ML Projects Incoming** — Focused on data cleaning, visualization, feature engineering, and model building.
+
+---
+
+## 📂 Other Projects
+- 🔗 [Freight Truck Optimization Algorithm (Python)](https://github.com/MiranSijercic/PythonOptimization) — Self-adjusting algorithm for minimizing delivery distances for freight trucks.
+- 🔗 [Computer Science Portfolio Projects](LINK_TO_YOUR_OLD_REPO_PAGE)
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub stats" />
+</p>
+
+---
+
+## 📫 Connect with Me
+<p>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
