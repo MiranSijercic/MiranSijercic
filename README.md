@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Miran Sijercic 👋</h1>
+<h1 align="center">Hi, I'm Miran 👋</h1>
 
 <p align="center">
 Building data-driven solutions with Python and machine learning.
@@ -6,7 +6,7 @@ Building data-driven solutions with Python and machine learning.
 
 ---
 
-## 🚀 About Me
+## About Me
 I'm a data science and machine learning enthusiast with a strong technical foundation built from my experience as a **DevOps and Application Systems Administrator**. 
 
 In my current role, I deploy code, manage Azure DevOps pipelines and permissions, configure server environments, and support enterprise applications. Just a few of many skills that have sharpened my problem-solving and techincal thinking abilities.
@@ -18,20 +18,20 @@ I'm excited to combine my hands-on IT experience with a strong analytical mindse
 
 ---
 
-## 🛠️ Core Skills
+## Core Skills
 - **Programming & Libraries**: Python, pandas, NumPy, matplotlib, seaborn, scikit-learn
 - **Cloud & DevOps**: Microsoft Shop, Azure DevOps, CI/CD Pipelines, Server Environment Configuration
 - **Data Science Interests**: Supervised Learning, Unsupervised Learning, Data Visualization, Model Evaluation
 
 ---
 
-## 📚 Current Projects
-- 🚢 **Titanic Classification Project** — Machine learning model predicting survival outcomes (coming soon!)
-- 🤖 **New ML Projects Incoming** — Focused on data cleaning, visualization, feature engineering, and model building.
+## Current Projects
+- **Titanic Classification Project** — Machine learning model predicting survival outcomes (coming soon!)
+- **New ML Projects Incoming** — Focused on data cleaning, visualization, feature engineering, and model building.
 
 ---
 
-## 📂 Other Projects
+## Other Projects
 - 🔗 [Freight Truck Optimization Algorithm (Python)](https://github.com/MiranSijercic/PythonOptimization) — Self-adjusting algorithm for minimizing delivery distances for freight trucks.
 - 🔗 [Computer Science Portfolio Projects](LINK_TO_YOUR_OLD_REPO_PAGE)
 
