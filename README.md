@@ -26,7 +26,8 @@ I'm excited to combine my hands-on IT experience with a strong analytical mindse
 ---
 
 ## Current Projects
-- **Titanic Classification Project** — Machine learning model predicting survival outcomes (coming soon!)
+- **Titanic Classification Project** — Machine learning model predicting survival outcomes. [![View Notebook](https://img.shields.io/badge/Jupyter%20Notebook-View%20in%20nbviewer-blue?logo=Jupyter)](https://nbviewer.org/github/MiranSijercic/Titanic_Classifier/blob/main/sijercic-titanic.ipynb)
+
 - **New ML Projects Incoming** — Focused on data cleaning, visualization, feature engineering, and model building.
 
 ---
